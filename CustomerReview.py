@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from textblob import TextBlob  # Simple library for sentiment analysis
 
 # Title and Introduction
